@@ -1,5 +1,6 @@
 # Voice Harmonics Analyzer (web)
-
+# Local Web Server (self hosting)
+# Prompt : https://drive.google.com/file/d/1kS82oxsR30cTwfw3ax9xZjRAoQQUsd8c/view?usp=sharing
 This app records a singing voice in the browser and finds the fundamental
 frequency (f0) of each note. It then breaks each note into its harmonic series
 (H1, H2, H3 …), with the frequency, musical note, deviation in cents and level
